@@ -1,6 +1,6 @@
-package a2_1901040115.Controller;
+package controller;
 
-import a2_1901040115.model.Enrolment;
+import model.Enrolment;
 import java.sql.*;
 import java.util.ArrayList;
 
